@@ -1,4 +1,4 @@
-# 🌟 Machine Learning NLP: Drugs Reviews
+# 🧠 Machine Learning NLP: Drugs Reviews
 
 Our project aims to leverage advanced techniques in natural language processing (NLP) and machine learning (ML) to analyze and extract valuable insights from a dataset containing medication reviews. The objective is to understand the relationship between patients' opinions on medications and the quantitative assessments of their effectiveness and side effects. Additionally, we will incorporate various other variables to enhance the reliability and realism of our results, thereby gaining a comprehensive understanding of the impact of different drugs on various patients.
 
