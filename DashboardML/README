@@ -1,0 +1,13 @@
+How to run the Dashboard:
+    python dashboard.py 
+or python3, depending on your system. Make sure you have installed all the necessary packages!
+
+Then follow the webpage listed in the output, most likely (possibly another port):
+    http://127.0.0.1:8050/
+
+In case there is an error concerning the version of scikit-learn, execute the following commands:
+    pip uninstall scikit-learn
+    pip install scikit-learn==1.2.2
+
+This is necessary to import a pickle file with the data for the graphs, obtained from our main notebook.
+This notebook was run on google colab, which has an older version of scikit-learn.
